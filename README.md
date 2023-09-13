@@ -1,4 +1,5 @@
 # Private Capabilityのテスト
+テスト用のアカウントでミントしたNFTの権限をemulator-accountに渡し、emulator-accountの署名でNFTの情報を更新します。その後、権限の削除までを行います。
 1. エミュレーターの起動
 ```
 flow emulator -v
